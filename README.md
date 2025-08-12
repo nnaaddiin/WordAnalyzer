@@ -13,5 +13,7 @@
     Git & GitHub (for version control)### Extra features
 ### Extra features
 - make the user enter the number of top N by himself
+- Exeption handling
 - Generate a simple bar chart of the top words.(bonus)
 - Handle large files efficiently.(bonus)
+
